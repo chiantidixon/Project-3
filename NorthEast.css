@@ -103,7 +103,7 @@ img{
 
 .grant {
 
-    top: 2357px;
+    top: 2304px;
     left: 2000px;
     width:  150px;
     height: 100px;
@@ -111,7 +111,7 @@ img{
     background-image: url('http://chiantidixon.github.io/Project-3/images/Grant.png');
 }
 
-.music:hover {
+.grant:hover {
     height: 300px;
     width: 200px;
     background-image: url('http://chiantidixon.github.io/Project-3/images/GrantText.png');
