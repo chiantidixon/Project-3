@@ -36,18 +36,18 @@ img{
     background-image: url('http://chiantidixon.github.io/Project-3/images/HomeText.png');
 }
 
-div a {
+.OZ{
 
 	top: 1043px;
     left: 1981px;
     width:  150px;
     height: 100px;
     position: absolute;
-    background-image: url('');
+    background-image: url('http://chiantidixon.github.io/Project-3/images/40oz.png');
 }
 
-div a:hover {
+.OZ:hover {
     height: 300px;
     width: 200px;
-    background-image: url('');
+    background-image: url('http://chiantidixon.github.io/Project-3/images/40ozText.png');
 }
