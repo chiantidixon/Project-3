@@ -1,0 +1,58 @@
+
+img{
+
+	height:3000px;
+    width:4000px;
+}
+
+.north{
+
+	position: absolute;
+    top: 504px;
+    left: 1655px;
+    font-family: sans-serif;
+    font-size: 58px;
+    color: #524545;
+    display: inline-block;
+
+}
+
+.north-east{
+
+	position: absolute;
+    top: 1239px;
+    left: 2270px;
+    font-family: sans-serif;
+    font-size: 58px;
+    color: #524545;
+}
+
+.north-west{
+
+	position: absolute;
+    top: 1400px;
+    left: 1538px;
+    font-family: sans-serif;
+    font-size: 58px;
+    color: #524545;
+}
+
+.south-west{
+
+	position: absolute;
+    top: 2000px;
+    left: 1655px;
+    font-family: sans-serif;
+    font-size: 58px;
+    color: #524545
+}
+
+.south-east{
+
+	position: absolute;
+    top: 1704px;
+    left: 2500px;
+    font-family: sans-serif;
+    font-size: 58px;
+    color: #524545
+}

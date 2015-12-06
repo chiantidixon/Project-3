@@ -1,0 +1,16 @@
+img{
+
+	height:3000px;
+	width:4000px;
+}
+
+#arrow{
+
+	height: 203px;
+    width: 100px;
+    background-color: transparent;
+    position: absolute;
+    left: 1543px;
+    top: 381px;
+
+}
