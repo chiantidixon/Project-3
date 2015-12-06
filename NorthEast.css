@@ -83,3 +83,31 @@ img{
     width: 200px;
     background-image: url('http://chiantidixon.github.io/Project-3/images/CoffeeText.png');
 }
+
+.plane{
+
+    top: 600px;
+    left: 2300px;
+    width:  150px;
+    height: 100px;
+    position: absolute;
+    background-image: url('http://chiantidixon.github.io/Project-3/images/Plane.png');
+}
+
+.plane:hover {
+    height: 300px;
+    width: 200px;
+    background-image: url('http://chiantidixon.github.io/Project-3/images/PlaneText.png');
+}
+
+
+
+
+
+
+
+
+
+
+
+
