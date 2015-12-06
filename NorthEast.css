@@ -11,13 +11,13 @@ img{
     width:  150px;
     height: 100px;
     position: absolute;
-    background-image: url('file:///Users/mjentzsch/Desktop/interactivemedia323/Final/images/Music.png');
+    background-image: url('http://chiantidixon.github.io/Project-3/images/Music.png');
 }
 
 .music:hover {
     height: 300px;
     width: 200px;
-    background-image: url('file:///Users/mjentzsch/Desktop/interactivemedia323/Final/images/MusicText.png');
+    background-image: url('http://chiantidixon.github.io/Project-3/images/MusicText.png');
 }
 
 .home{
@@ -27,13 +27,13 @@ img{
     width:  150px;
     height: 100px;
     position: absolute;
-    background-image: url('file:///Users/mjentzsch/Desktop/interactivemedia323/Final/images/House.png');
+    background-image: url('http://chiantidixon.github.io/Project-3/images/House.png');
 }
 
 .home:hover {
     height: 300px;
     width: 200px;
-    background-image: url('file:///Users/mjentzsch/Desktop/interactivemedia323/Final/images/HomeText.png');
+    background-image: url('http://chiantidixon.github.io/Project-3/images/HomeText.png');
 }
 
 div a {
