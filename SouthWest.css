@@ -4,18 +4,18 @@ img{
 	width: 4000px;
 }
 
-.pride{
+.timbers{
 
 	top: 2167px;
     left: 3670px;
     width: 150px;
     height: 100px;
     position: absolute;
-    background-image: url('http://chiantidixon.github.io/Project-3/images/Pride.png');
+    background-image: url('http://chiantidixon.github.io/Project-3/images/Timbers.png');
 }
 
-.pride:hover {
+.timbers:hover {
     height: 300px;
     width: 200px;
-    background-image: url('http://chiantidixon.github.io/Project-3/PrideText.png');
+    background-image: url('http://chiantidixon.github.io/Project-3/TimbersText.png');
 }
