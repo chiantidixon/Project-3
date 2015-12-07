@@ -26,9 +26,9 @@ img{
     height: 150px;
     width: 100px;
     position: absolute;
-    top: 2200px;
-    left: 807px;
-    -webkit-transform: rotate(-232deg);
+    top: 1500px;
+    left: 2431px;
+    -webkit-transform: rotate(-270deg);
 }
 
 .direction-NW{
@@ -36,9 +36,9 @@ img{
     height: 150px;
     width: 100px;
     position: absolute;
-    top: 80px;
+    top: 1240px;
     left: 765px;
-    -webkit-transform: rotate(-90deg);
+    -webkit-transform: rotate(-210deg);
 }
 
 
