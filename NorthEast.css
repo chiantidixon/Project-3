@@ -9,7 +9,8 @@ img{
     height: 150px;
     width: 100px;
     position: absolute;
-    top: 0px;
+    top: 822px;
+    -webkit-transform: rotate(-14deg);
     
 }
 
