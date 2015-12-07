@@ -52,6 +52,22 @@ img{
     background-image: url('http://chiantidixon.github.io/Project-3/EHouseText.png');
 }
 
+.robo{
+
+	top: 1200px;
+    left: 3000px;
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    background-image: url('http://chiantidixon.github.io/Project-3/images/Robo.png');
+}
+
+.robo:hover {
+    height: 300px;
+    width: 200px;
+    background-image: url('http://chiantidixon.github.io/Project-3/images/RoboText.png');
+}
+
 
 
 
