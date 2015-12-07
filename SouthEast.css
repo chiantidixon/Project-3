@@ -19,3 +19,19 @@ img{
     width: 200px;
     background-image: url('http://chiantidixon.github.io/Project-3/OaksText.png');
 }
+
+.rugby{
+
+	top: 2059px;
+    left: 760px;
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    background-image: url('http://chiantidixon.github.io/Project-3/images/Rugby.png');
+}
+
+.rugby:hover {
+    height: 300px;
+    width: 200px;
+    background-image: url('http://chiantidixon.github.io/Project-3/images/RugbyText.png');
+}
