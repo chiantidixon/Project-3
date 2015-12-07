@@ -21,7 +21,7 @@ div a:hover {
     background-image: url('http://chiantidixon.github.io/Project-3/images/CarText.png');
 }
 
-.direction-NW{
+.direction-NE{
 
     height: 150px;
     width: 100px;
@@ -31,14 +31,14 @@ div a:hover {
     -webkit-transform: rotate(-232deg);
 }
 
-.direction-NE{
+.direction-NW{
 
     height: 150px;
-    width: 200px;
+    width: 100px;
     position: absolute;
-    top: 916px;
-    left: 87px;
-    -webkit-transform: rotate(-148deg);
+    top: 80px;
+    left: 765px;
+    -webkit-transform: rotate(-90deg);
 }
 
 
