@@ -3,3 +3,19 @@ img{
 	height: 3000px;
 	width: 4000px;
 }
+
+.pride{
+
+	top: 2167px;
+    left: 3670px;
+    width: 150px;
+    height: 100px;
+    position: absolute;
+    background-image: url('http://chiantidixon.github.io/Project-3/images/Pride.png');
+}
+
+.pride:hover {
+    height: 300px;
+    width: 200px;
+    background-image: url('http://chiantidixon.github.io/Project-3/PrideText.png');
+}
