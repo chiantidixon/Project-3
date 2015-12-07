@@ -12,11 +12,11 @@ div a {
     width:  150px;
     height: 100px;
     position: absolute;
-    background-image: url('file:///Users/mjentzsch/Desktop/interactivemedia323/Final/images/Car.png');
+    background-image: url('http://chiantidixon.github.io/Project-3/images/Car.png');
 }
 
 div a:hover {
     height: 300px;
     width: 200px;
-    background-image: url('file:///Users/mjentzsch/Desktop/interactivemedia323/Final/images/CarText.png');
+    background-image: url('http://chiantidixon.github.io/Project-3/images/CarText.png');
 }
