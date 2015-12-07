@@ -30,3 +30,17 @@ div a:hover {
     left: 87px;
     -webkit-transform: rotate(-148deg);
 }
+
+.direction-NE{
+
+    height: 150px;
+    width: 200px;
+    position: absolute;
+    top: 916px;
+    left: 87px;
+    -webkit-transform: rotate(-148deg);
+}
+
+
+
+
